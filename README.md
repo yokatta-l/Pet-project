@@ -7,3 +7,7 @@
 - https://yoksel.github.io/html-tree/ - по БЭМ неймингу нет ошибок
 
 [Видео показывающее соответствие с pixel perfect](http://a1138732.xsph.ru/bandicam%202025-07-26%2020-48-29-650%20(online-video-cutter.com).mp4)
+
+[Ссылка на макет фигмы](https://www.figma.com/design/LianY6lYjUjGUedP0rJu14/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD?node-id=33180-2565&t=9fP8ZazogzLuP3HK-1)
+
+Ссылка на сайт - https://ponrez.github.io/Pet-project/
